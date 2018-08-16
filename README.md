@@ -1,0 +1,2 @@
+# vr-tsst
+THe ECG VR-TSST is a computerized version of the original Trier Social Stress Test (TSST) based on the use of cutting edge Virtual Reality technology. The application has successfully been used to induce acute psychological stress in laboratory settings. This project is an open source project for the experimental psychology community. You can either use our pre-build executable files or check our the code and adapt the unity project to your needs. 
