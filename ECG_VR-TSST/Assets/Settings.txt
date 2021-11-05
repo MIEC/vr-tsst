@@ -1,0 +1,1 @@
+{"oneAuditor":false,"secondRoundAnnouncement":true,"firstRound":["Subtraction"],"secondRound":["Subtraction"],"language":0}

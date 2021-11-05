@@ -1,0 +1,47 @@
+Begin Study at: 10-12-2019 18:06:34.
+
+Settings used:
+One Auditor?: True
+Second round announcement?: True
+Language: Deutsch
+First round: [Stroop]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 10-12-2019 18:06:34
+
+--------------------------------------
+
+Started task "Start" at 10-12-2019 18:06:37
+
+--------------------------------------
+
+Started task "WaitingRoom" at 10-12-2019 18:06:37
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 10-12-2019 18:06:37
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 10-12-2019 18:06:37
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 10-12-2019 18:06:37
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 10-12-2019 18:06:37
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 10-12-2019 18:06:38
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 10-12-2019 18:06:38
+
+--------------------------------------
+
+Started task "PositionChange" at 10-12-2019 18:06:38
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 10-12-2019 18:06:38
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 10-12-2019 18:06:38
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 10-12-2019 18:06:40
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 10-12-2019 18:06:40
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 10-12-2019 18:06:42
+
+--------------------------------------
+
+Started task "Stroop" at 10-12-2019 18:06:42
+Current task: "StroopTestTask"; Current state of Task: "Inactive" at 10-12-2019 18:06:42
+Current task: "StroopTestTask"; Current state of Task: "Welcome" at 10-12-2019 18:06:42
+NPC  says "Welcome" at 10-12-2019 18:06:42
+Current task: "StroopTestTask"; Current state of Task: "Initialized" at 10-12-2019 18:06:52
+NPC says "Stroop test explanation" at 10-12-2019 18:06:52
+Current task: "StroopTestTask"; Current state of Task: "TaskAction" at 10-12-2019 18:07:05

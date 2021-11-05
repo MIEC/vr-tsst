@@ -1,0 +1,37 @@
+Begin Study at: 10-12-2019 18:15:59.
+
+Settings used:
+One Auditor?: True
+Second round announcement?: True
+Language: Deutsch
+First round: [PresentationProjectManager]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 10-12-2019 18:15:59
+
+--------------------------------------
+
+Started task "Start" at 10-12-2019 18:16:03
+
+--------------------------------------
+
+Started task "WaitingRoom" at 10-12-2019 18:16:03
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 10-12-2019 18:16:03
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 10-12-2019 18:16:03
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 10-12-2019 18:16:04
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 10-12-2019 18:16:04
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 10-12-2019 18:16:04
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 10-12-2019 18:16:04
+
+--------------------------------------
+
+Started task "PositionChange" at 10-12-2019 18:16:04
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 10-12-2019 18:16:04
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 10-12-2019 18:16:04
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 10-12-2019 18:16:06
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 10-12-2019 18:16:06
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 10-12-2019 18:16:08

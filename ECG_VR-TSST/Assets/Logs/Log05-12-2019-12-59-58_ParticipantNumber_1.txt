@@ -1,0 +1,34 @@
+Begin Study at: 05-12-2019 12:59:58.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Deutsch
+First round: [Presentation, Subtraction]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 05-12-2019 12:59:58
+
+--------------------------------------
+
+Started task "Start" at 05-12-2019 13:00:00
+
+--------------------------------------
+
+Started task "WaitingRoom" at 05-12-2019 13:00:00
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 05-12-2019 13:00:00
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 05-12-2019 13:00:00
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 05-12-2019 13:00:00
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 05-12-2019 13:00:00
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 05-12-2019 13:00:00
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 05-12-2019 13:00:00
+
+--------------------------------------
+
+Started task "PositionChange" at 05-12-2019 13:00:00
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 05-12-2019 13:00:00
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 05-12-2019 13:00:00

@@ -1,0 +1,1 @@
+{"oneAuditor":false,"secondRoundAnnouncement":true,"firstIsSecond":true,"firstRound":["SpeechChiefPhysician"],"secondRound":[],"language":1}

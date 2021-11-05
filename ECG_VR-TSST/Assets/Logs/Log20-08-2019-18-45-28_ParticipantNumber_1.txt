@@ -1,0 +1,54 @@
+Begin Study at: 20-08-2019 18:45:28.
+
+Settings used:
+One Auditor?: True
+Second round announcement?: True
+Language: Deutsch
+First round: [Presentation]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 20-08-2019 18:45:28
+
+--------------------------------------
+
+Started task "Start" at 20-08-2019 18:45:33
+
+--------------------------------------
+
+Started task "WaitingRoom" at 20-08-2019 18:45:33
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 20-08-2019 18:45:33
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 20-08-2019 18:45:33
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 20-08-2019 18:45:33
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 20-08-2019 18:45:34
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 20-08-2019 18:45:34
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 20-08-2019 18:45:34
+
+--------------------------------------
+
+Started task "PositionChange" at 20-08-2019 18:45:34
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 20-08-2019 18:45:34
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 20-08-2019 18:45:34
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 20-08-2019 18:45:36
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 20-08-2019 18:45:41
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 20-08-2019 18:45:43
+
+--------------------------------------
+
+Started task "Presentation" at 20-08-2019 18:45:43
+Current task: "PresentationTask"; Current state of Task: "Inactive" at 20-08-2019 18:45:43
+Current task: "PresentationTask"; Current state of Task: "Welcome" at 20-08-2019 18:45:43
+NPC  says "Welcome" at 20-08-2019 18:45:43
+Current task: "PresentationTask"; Current state of Task: "Initialized" at 20-08-2019 18:45:53
+NPC says "Speech explanation" at 20-08-2019 18:45:53
+Current task: "PresentationTask"; Current state of Task: "TaskAction" at 20-08-2019 18:46:03
+Current task: "PresentationTask"; Current state of Task: "PresentationTime" at 20-08-2019 18:46:27
+NPC says "Thank you! This is the end of the Test." at 20-08-2019 18:46:27
+Current task: "PresentationTask"; Current state of Task: "ThanksAction" at 20-08-2019 18:46:33
+
+--------------------------------------
+
+End Study ; at 20-08-2019 18:46:33

@@ -1,0 +1,67 @@
+Begin Study at: 07-08-2019 13:35:28.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Deutsch
+First round: [ResolveTerms, Computation]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 07-08-2019 13:35:28
+
+--------------------------------------
+
+Started task "Start" at 07-08-2019 13:35:29
+
+--------------------------------------
+
+Started task "WaitingRoom" at 07-08-2019 13:35:29
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 07-08-2019 13:35:29
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 07-08-2019 13:35:29
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 07-08-2019 13:35:29
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 07-08-2019 13:35:29
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 07-08-2019 13:35:29
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 07-08-2019 13:35:29
+
+--------------------------------------
+
+Started task "PositionChange" at 07-08-2019 13:35:29
+Current task: "PositionChangeTask"; Current state of Task: " Inactive at 07-08-2019 13:35:29
+Current task: "PositionChangeTask"; Current state of Task: " Initialized at 07-08-2019 13:35:29
+Current task: "PositionChangeTask"; Current state of Task: " FadeOut at 07-08-2019 13:35:31
+Current task: "PositionChangeTask"; Current state of Task: " Change at 07-08-2019 13:35:32
+Current task: "PositionChangeTask"; Current state of Task: " FadeIn at 07-08-2019 13:35:34
+
+--------------------------------------
+
+Started task "ResolveTerms" at 07-08-2019 13:35:34
+Current task: "ResolveTermsTask"; Current state of Task: "Inactive" at 07-08-2019 13:35:34
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 13:35:34
+NPC  says "Welcome" at 07-08-2019 13:35:34
+NPC says "Resolve terms explanation" at 07-08-2019 13:35:44
+Current task: "ResolveTermsTask"; Current state of Task: "Initialized" at 07-08-2019 13:35:44
+Current task: "ResolveTermsTask"; Current state of Task: "TaskAction" at 07-08-2019 13:35:50
+Current task: "ResolveTermsTask"; Current state of Task: "RunSeries" at 07-08-2019 13:35:50
+Current task: "ResolveTermsTask"; Current state of Task: "EndSeries" at 07-08-2019 13:35:54
+NPC says "Thank you! Next Task." at 07-08-2019 13:35:54
+Current task: "ResolveTermsTask"; Current state of Task: "ThanksAction" at 07-08-2019 13:35:59
+
+--------------------------------------
+
+Started task "Computation" at 07-08-2019 13:35:59
+Current task: "ComputeChainTask"; Current state of Task: "Inactive" at 07-08-2019 13:35:59
+Current task: "ComputeChainTask"; Current state of Task: "Welcome" at 07-08-2019 13:35:59
+NPC says "Compute chain explanation" at 07-08-2019 13:35:59
+Current task: "ComputeChainTask"; Current state of Task: "TaskAction" at 07-08-2019 13:36:05
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 13:36:05
+Current task: "ComputeChainTask"; Current state of Task: "End" at 07-08-2019 13:36:09
+NPC says "Thank you! This is the end of the Test." at 07-08-2019 13:36:09
+Current task: "ComputeChainTask"; Current state of Task: "ThanksAction" at 07-08-2019 13:36:09
+
+--------------------------------------
+
+End Study ; at 07-08-2019 13:36:09

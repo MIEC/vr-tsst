@@ -1,0 +1,95 @@
+Begin Study at: 07-08-2019 12:37:27.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Deutsch
+First round: [Presentation]
+Second round: [ResolveTerms]
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 07-08-2019 12:37:27
+
+--------------------------------------
+
+Started task "Start" at 07-08-2019 12:37:30
+
+--------------------------------------
+
+Started task "WaitingRoom" at 07-08-2019 12:37:30
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 07-08-2019 12:37:30
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 07-08-2019 12:37:30
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 07-08-2019 12:37:31
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 07-08-2019 12:37:31
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 07-08-2019 12:37:31
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 07-08-2019 12:37:31
+
+--------------------------------------
+
+Started task "PositionChange" at 07-08-2019 12:37:31
+Current task: "PositionChangeTask"; Current state of Task: " Inactive at 07-08-2019 12:37:31
+Current task: "PositionChangeTask"; Current state of Task: " Initialized at 07-08-2019 12:37:31
+Current task: "PositionChangeTask"; Current state of Task: " FadeOut at 07-08-2019 12:37:33
+Current task: "PositionChangeTask"; Current state of Task: " Change at 07-08-2019 12:37:33
+Current task: "PositionChangeTask"; Current state of Task: " FadeIn at 07-08-2019 12:37:35
+
+--------------------------------------
+
+Started task "Presentation" at 07-08-2019 12:37:35
+Current task: "PresentationTask"; Current state of Task: "Inactive" at 07-08-2019 12:37:35
+Current task: "PresentationTask"; Current state of Task: "Welcome" at 07-08-2019 12:37:35
+NPC  says "Welcome" at 07-08-2019 12:37:35
+Current task: "PresentationTask"; Current state of Task: "Initialized" at 07-08-2019 12:37:45
+NPC says "Speech explanation" at 07-08-2019 12:37:45
+Current task: "PresentationTask"; Current state of Task: "TaskAction" at 07-08-2019 12:37:55
+Current task: "PresentationTask"; Current state of Task: "PresentationTime" at 07-08-2019 12:39:10
+NPC says "Thank you! Next round follows soon." at 07-08-2019 12:39:10
+Current task: "PresentationTask"; Current state of Task: "ThanksAction" at 07-08-2019 12:39:16
+Begin second Round at: 07-08-2019 12:39:16.
+Settings used: {"oneAuditor":false,"secondRoundAnnouncement":true,"firstRound":["Presentation"],"secondRound":["ResolveTerms"],"language":0}
+
+--------------------------------------
+
+Started task "ChangePositionBack" at 07-08-2019 12:39:16
+Current task: "ChangePositionBack"; Current state of Task: "Inactive" at 07-08-2019 12:39:16
+Current task: "ChangePositionBack"; Current state of Task: "Initialized" at 07-08-2019 12:39:16
+Current task: "ChangePositionBack"; Current state of Task: "FadeOut" at 07-08-2019 12:39:18
+Current task: "ChangePositionBack"; Current state of Task: "Change" at 07-08-2019 12:39:18
+Current task: "ChangePositionBack"; Current state of Task: "FadeIn" at 07-08-2019 12:39:20
+
+--------------------------------------
+
+Started task "Uninitialized" at 07-08-2019 12:39:20
+
+--------------------------------------
+
+Started task "Start" at 07-08-2019 12:39:27
+
+--------------------------------------
+
+Started task "WaitingRoom" at 07-08-2019 12:39:27
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 07-08-2019 12:39:27
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 07-08-2019 12:39:27
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 07-08-2019 12:39:29
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 07-08-2019 12:39:29
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 07-08-2019 12:39:30
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 07-08-2019 12:39:30
+
+--------------------------------------
+
+Started task "PositionChange" at 07-08-2019 12:39:30
+Current task: "PositionChangeTask"; Current state of Task: " Inactive at 07-08-2019 12:39:30
+Current task: "PositionChangeTask"; Current state of Task: " Initialized at 07-08-2019 12:39:30
+Current task: "PositionChangeTask"; Current state of Task: " FadeOut at 07-08-2019 12:39:32
+Current task: "PositionChangeTask"; Current state of Task: " Change at 07-08-2019 12:39:32
+Current task: "PositionChangeTask"; Current state of Task: " FadeIn at 07-08-2019 12:39:34
+
+--------------------------------------
+
+Started task "ResolveTerms" at 07-08-2019 12:39:34
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 12:39:34
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 12:39:34
+NPC  says "Welcome to second round" at 07-08-2019 12:39:34

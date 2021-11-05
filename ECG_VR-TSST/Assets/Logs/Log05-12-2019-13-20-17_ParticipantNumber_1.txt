@@ -1,0 +1,14 @@
+Begin Study at: 05-12-2019 13:20:17.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Deutsch
+First round: [Presentation, Subtraction]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 05-12-2019 13:20:17

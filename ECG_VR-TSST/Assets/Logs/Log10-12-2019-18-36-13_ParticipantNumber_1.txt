@@ -1,0 +1,43 @@
+Begin Study at: 10-12-2019 18:36:13.
+
+Settings used:
+One Auditor?: True
+Second round announcement?: True
+Language: English
+First round: [Stroop]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 10-12-2019 18:36:13
+
+--------------------------------------
+
+Started task "Start" at 10-12-2019 18:36:14
+
+--------------------------------------
+
+Started task "WaitingRoom" at 10-12-2019 18:36:14
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 10-12-2019 18:36:14
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 10-12-2019 18:36:14
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 10-12-2019 18:36:14
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 10-12-2019 18:36:14
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 10-12-2019 18:36:14
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 10-12-2019 18:36:14
+
+--------------------------------------
+
+Started task "PositionChange" at 10-12-2019 18:36:14
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 10-12-2019 18:36:14
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 10-12-2019 18:36:14
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 10-12-2019 18:36:16
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 10-12-2019 18:36:17
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 10-12-2019 18:36:19
+
+--------------------------------------
+
+Started task "Stroop" at 10-12-2019 18:36:19
+Current task: "StroopTestTask"; Current state of Task: "Inactive" at 10-12-2019 18:36:19
+Current task: "StroopTestTask"; Current state of Task: "Welcome" at 10-12-2019 18:36:19

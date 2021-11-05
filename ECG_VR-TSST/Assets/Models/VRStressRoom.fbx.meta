@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 346fbcdbb6f346f4cbefb97df99dbd59
+timeCreated: 1495545445
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ceiling
+    100002: Ceiling.001
+    100004: Cube
+    100006: Door
+    100008: Door.001
+    100010: Floor
+    100012: Floor.001
+    100014: //RootNode
+    100016: Wall1
+    100018: Wall2
+    100020: Wall2Waiting
+    100022: Wall3
+    100024: Wall3WaitingRoom
+    100026: Wall4
+    100028: Wall4WaitingRoom
+    100030: Whiteboard
+    400000: Ceiling
+    400002: Ceiling.001
+    400004: Cube
+    400006: Door
+    400008: Door.001
+    400010: Floor
+    400012: Floor.001
+    400014: //RootNode
+    400016: Wall1
+    400018: Wall2
+    400020: Wall2Waiting
+    400022: Wall3
+    400024: Wall3WaitingRoom
+    400026: Wall4
+    400028: Wall4WaitingRoom
+    400030: Whiteboard
+    2300000: Ceiling
+    2300002: Ceiling.001
+    2300004: Cube
+    2300006: Door
+    2300008: Door.001
+    2300010: Floor
+    2300012: Floor.001
+    2300014: Wall1
+    2300016: Wall2
+    2300018: Wall2Waiting
+    2300020: Wall3
+    2300022: Wall3WaitingRoom
+    2300024: Wall4
+    2300026: Wall4WaitingRoom
+    2300028: Whiteboard
+    3300000: Ceiling
+    3300002: Ceiling.001
+    3300004: Cube
+    3300006: Door
+    3300008: Door.001
+    3300010: Floor
+    3300012: Floor.001
+    3300014: Wall1
+    3300016: Wall2
+    3300018: Wall2Waiting
+    3300020: Wall3
+    3300022: Wall3WaitingRoom
+    3300024: Wall4
+    3300026: Wall4WaitingRoom
+    3300028: Whiteboard
+    4300000: Cube
+    4300002: Ceiling.001
+    4300004: Wall2Waiting
+    4300006: Wall4WaitingRoom
+    4300008: Wall3WaitingRoom
+    4300010: Floor.001
+    4300012: Door.001
+    4300014: Door
+    4300016: Ceiling
+    4300018: Whiteboard
+    4300020: Wall4
+    4300022: Wall2
+    4300024: Wall3
+    4300026: Wall1
+    4300028: Floor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

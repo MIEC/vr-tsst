@@ -1,0 +1,1 @@
+{"initialText":"Bitte haben Sie noch einen Moment Geduld! Sie können gleich zu dem/den Prüfer(n) ins Büro, um mit den Aufgaben zu starten.","surveillanceText":"Im später folgenden Gespräch werden sowohl Bild als auch Ton aufgezeichnet werden!","readyText":"Bitte stehen Sie auf.\r\nDer/Die Prüfer ist/sind jetzt für Sie bereit."}

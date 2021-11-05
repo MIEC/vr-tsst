@@ -1,0 +1,41 @@
+Begin Study at: 11-12-2019 13:30:33.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Deutsch
+First round: [SpeechChiefPhysician, Stroop]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 11-12-2019 13:30:33
+
+--------------------------------------
+
+Started task "Start" at 11-12-2019 13:30:35
+
+--------------------------------------
+
+Started task "WaitingRoom" at 11-12-2019 13:30:35
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 11-12-2019 13:30:35
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 11-12-2019 13:30:35
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 11-12-2019 13:30:35
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 11-12-2019 13:30:35
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 11-12-2019 13:30:35
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 11-12-2019 13:30:35
+
+--------------------------------------
+
+Started task "PositionChange" at 11-12-2019 13:30:35
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 11-12-2019 13:30:35
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 11-12-2019 13:30:35
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 11-12-2019 13:30:37
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 11-12-2019 13:30:38
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 11-12-2019 13:30:40
+
+--------------------------------------
+
+Started task "SpeechChiefPhysician" at 11-12-2019 13:30:40

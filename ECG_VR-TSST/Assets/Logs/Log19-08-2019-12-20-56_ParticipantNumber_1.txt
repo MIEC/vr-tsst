@@ -1,0 +1,69 @@
+Begin Study at: 19-08-2019 12:20:56.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Deutsch
+First round: [Presentation, Subtraction, Computation, NumberSeries, Stroop]
+Second round: [ResolveTerms, NBack]
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 19-08-2019 12:20:56
+
+--------------------------------------
+
+Started task "Start" at 19-08-2019 12:20:57
+
+--------------------------------------
+
+Started task "WaitingRoom" at 19-08-2019 12:20:57
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 19-08-2019 12:20:57
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 19-08-2019 12:20:57
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 19-08-2019 12:20:58
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 19-08-2019 12:20:58
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 19-08-2019 12:21:08
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 19-08-2019 12:21:08
+
+--------------------------------------
+
+Started task "PositionChange" at 19-08-2019 12:21:08
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 19-08-2019 12:21:08
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 19-08-2019 12:21:08
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 19-08-2019 12:21:11
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 19-08-2019 12:21:11
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 19-08-2019 12:21:15
+
+--------------------------------------
+
+Started task "Presentation" at 19-08-2019 12:21:15
+Current task: "PresentationTask"; Current state of Task: "Inactive" at 19-08-2019 12:21:15
+Current task: "PresentationTask"; Current state of Task: "Welcome" at 19-08-2019 12:21:15
+NPC  says "Welcome" at 19-08-2019 12:21:15
+Current task: "PresentationTask"; Current state of Task: "Initialized" at 19-08-2019 12:21:25
+NPC says "Speech explanation" at 19-08-2019 12:21:25
+Current task: "PresentationTask"; Current state of Task: "TaskAction" at 19-08-2019 12:21:35
+Current task: "PresentationTask"; Current state of Task: "PresentationTime" at 19-08-2019 12:21:38
+NPC says "Thank you! Next Task." at 19-08-2019 12:21:38
+Current task: "PresentationTask"; Current state of Task: "ThanksAction" at 19-08-2019 12:21:43
+
+--------------------------------------
+
+Started task "Subtraction" at 19-08-2019 12:21:43
+Current task: "SubtractionTask"; Current state of Task: "Inactive" at 19-08-2019 12:21:43
+Current task: "SubtractionTask"; Current state of Task: "Welcome" at 19-08-2019 12:21:43
+NPC says "Subtraction series explanation" at 19-08-2019 12:21:43
+Current task: "SubtractionTask"; Current state of Task: "TaskAction" at 19-08-2019 12:21:53
+Current task: "SubtractionTask"; Current state of Task: "TaskTime" at 19-08-2019 12:21:58
+NPC says "Thank you! Next Task." at 19-08-2019 12:21:58
+Current task: "SubtractionTask"; Current state of Task: "ThanksAction" at 19-08-2019 12:22:02
+
+--------------------------------------
+
+Started task "Computation" at 19-08-2019 12:22:02
+Current task: "ComputeChainTask"; Current state of Task: "Inactive" at 19-08-2019 12:22:02
+Current task: "ComputeChainTask"; Current state of Task: "Welcome" at 19-08-2019 12:22:02
+NPC says "Compute chain explanation" at 19-08-2019 12:22:02
+Current task: "ComputeChainTask"; Current state of Task: "TaskAction" at 19-08-2019 12:22:09

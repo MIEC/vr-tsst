@@ -1,0 +1,46 @@
+Begin Study at: 11-01-2020 15:15:56.
+
+Settings used:
+One Auditor?: True
+Second round announcement?: True
+Language: Deutsch
+First round: [Subtraction]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 11-01-2020 15:15:56
+
+--------------------------------------
+
+Started task "Start" at 11-01-2020 15:15:59
+
+--------------------------------------
+
+Started task "WaitingRoom" at 11-01-2020 15:15:59
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 11-01-2020 15:15:59
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 11-01-2020 15:15:59
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 11-01-2020 15:16:00
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 11-01-2020 15:16:00
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 11-01-2020 15:16:00
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 11-01-2020 15:16:00
+
+--------------------------------------
+
+Started task "PositionChange" at 11-01-2020 15:16:00
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 11-01-2020 15:16:00
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 11-01-2020 15:16:00
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 11-01-2020 15:16:02
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 11-01-2020 15:16:02
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 11-01-2020 15:16:04
+
+--------------------------------------
+
+Started task "Subtraction" at 11-01-2020 15:16:04
+Current task: "SubtractionTask"; Current state of Task: "Inactive" at 11-01-2020 15:16:04
+Current task: "SubtractionTask"; Current state of Task: "Welcome" at 11-01-2020 15:16:04
+NPC  says "Welcome to second round" at 11-01-2020 15:16:04
+Current task: "SubtractionTask"; Current state of Task: "Initialized" at 11-01-2020 15:16:08
+NPC says "Subtraction series explanation" at 11-01-2020 15:16:08

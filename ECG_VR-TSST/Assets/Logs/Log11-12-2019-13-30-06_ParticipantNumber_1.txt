@@ -1,0 +1,44 @@
+Begin Study at: 11-12-2019 13:30:07.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Deutsch
+First round: [SpeechDreamJob, Stroop]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 11-12-2019 13:30:07
+
+--------------------------------------
+
+Started task "Start" at 11-12-2019 13:30:08
+
+--------------------------------------
+
+Started task "WaitingRoom" at 11-12-2019 13:30:08
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 11-12-2019 13:30:08
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 11-12-2019 13:30:08
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 11-12-2019 13:30:08
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 11-12-2019 13:30:08
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 11-12-2019 13:30:08
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 11-12-2019 13:30:08
+
+--------------------------------------
+
+Started task "PositionChange" at 11-12-2019 13:30:08
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 11-12-2019 13:30:08
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 11-12-2019 13:30:08
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 11-12-2019 13:30:10
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 11-12-2019 13:30:10
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 11-12-2019 13:30:12
+
+--------------------------------------
+
+Started task "SpeechDreamJob" at 11-12-2019 13:30:12
+Current task: "SpeechDreamJob"; Current state of Task: "Inactive" at 11-12-2019 13:30:12
+Current task: "SpeechDreamJob"; Current state of Task: "Welcome" at 11-12-2019 13:30:12
+NPC  says "Welcome" at 11-12-2019 13:30:12

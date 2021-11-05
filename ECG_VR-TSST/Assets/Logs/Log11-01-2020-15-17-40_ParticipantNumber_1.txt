@@ -1,0 +1,47 @@
+Begin Study at: 11-01-2020 15:17:40.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: English
+First round: [SpeechChiefPhysician]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 11-01-2020 15:17:40
+
+--------------------------------------
+
+Started task "Start" at 11-01-2020 15:17:44
+
+--------------------------------------
+
+Started task "WaitingRoom" at 11-01-2020 15:17:44
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 11-01-2020 15:17:44
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 11-01-2020 15:17:44
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 11-01-2020 15:17:45
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 11-01-2020 15:17:45
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 11-01-2020 15:17:46
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 11-01-2020 15:17:46
+
+--------------------------------------
+
+Started task "PositionChange" at 11-01-2020 15:17:46
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 11-01-2020 15:17:46
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 11-01-2020 15:17:46
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 11-01-2020 15:17:48
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 11-01-2020 15:17:49
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 11-01-2020 15:17:51
+
+--------------------------------------
+
+Started task "SpeechChiefPhysician" at 11-01-2020 15:17:51
+Current task: "SpeechChiefPhysician"; Current state of Task: "Inactive" at 11-01-2020 15:17:51
+Current task: "SpeechChiefPhysician"; Current state of Task: "Welcome" at 11-01-2020 15:17:51
+NPC  says "Welcome" at 11-01-2020 15:17:51
+Current task: "SpeechChiefPhysician"; Current state of Task: "Initialized" at 11-01-2020 15:17:57
+NPC says "Speech explanation for Chief Phisician" at 11-01-2020 15:17:57
+Current task: "SpeechChiefPhysician"; Current state of Task: "TaskAction" at 11-01-2020 15:18:04

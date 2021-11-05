@@ -1,0 +1,93 @@
+Begin Study at: 23-06-2019 14:18:52.
+Settings used: {"oneAuditor":false,"secondRoundAnnouncement":true,"firstRound":["Subtraction"],"secondRound":["Subtraction"],"language":0}
+
+--------------------------------------
+
+Started task "Uninitialized" at 23-06-2019 14:18:52
+
+--------------------------------------
+
+Started task "Start" at 23-06-2019 14:18:53
+
+--------------------------------------
+
+Started task "WaitingRoom" at 23-06-2019 14:18:53
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 23-06-2019 14:18:53
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 23-06-2019 14:18:53
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 23-06-2019 14:18:53
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 23-06-2019 14:18:53
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 23-06-2019 14:18:53
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 23-06-2019 14:18:53
+
+--------------------------------------
+
+Started task "PositionChange" at 23-06-2019 14:18:53
+Current task: "ChangePositionBack"; Current state of Task: "Inactive" at 23-06-2019 14:18:53
+Current task: "ChangePositionBack"; Current state of Task: "Initialized" at 23-06-2019 14:18:53
+Current task: "ChangePositionBack"; Current state of Task: "FadeOut" at 23-06-2019 14:18:55
+Current task: "ChangePositionBack"; Current state of Task: "Change" at 23-06-2019 14:18:56
+Current task: "ChangePositionBack"; Current state of Task: "FadeIn" at 23-06-2019 14:18:58
+
+--------------------------------------
+
+Started task "Subtraction" at 23-06-2019 14:18:58
+Current task: "SubtractionTask"; Current state of Task: "Inactive" at 23-06-2019 14:18:58
+Current task: "SubtractionTask"; Current state of Task: "Initialized" at 23-06-2019 14:18:58
+NPC subtraction task explanation at 23-06-2019 14:18:58
+Current task: "SubtractionTask"; Current state of Task: "TaskAction" at 23-06-2019 14:19:09
+Current task: "SubtractionTask"; Current state of Task: "TaskTime" at 23-06-2019 14:19:26
+NPC next task at 23-06-2019 14:19:26
+Current task: "SubtractionTask"; Current state of Task: "ThanksAction" at 23-06-2019 14:19:29
+Begin second Round at: 23-06-2019 14:19:29.
+Settings used: {"oneAuditor":false,"secondRoundAnnouncement":true,"firstRound":["Subtraction"],"secondRound":["Subtraction"],"language":0}
+
+--------------------------------------
+
+Started task "ChangePositionBack" at 23-06-2019 14:19:29
+Current task: "ChangePositionBack"; Current state of Task: "Inactive" at 23-06-2019 14:19:29
+Current task: "ChangePositionBack"; Current state of Task: "Initialized" at 23-06-2019 14:19:29
+Current task: "ChangePositionBack"; Current state of Task: "FadeOut" at 23-06-2019 14:19:31
+Current task: "ChangePositionBack"; Current state of Task: "Change" at 23-06-2019 14:19:32
+Current task: "ChangePositionBack"; Current state of Task: "FadeIn" at 23-06-2019 14:19:34
+
+--------------------------------------
+
+Started task "Uninitialized" at 23-06-2019 14:19:34
+
+--------------------------------------
+
+Started task "Start" at 23-06-2019 14:19:34
+
+--------------------------------------
+
+Started task "WaitingRoom" at 23-06-2019 14:19:34
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 23-06-2019 14:19:34
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 23-06-2019 14:19:34
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 23-06-2019 14:19:35
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 23-06-2019 14:19:35
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 23-06-2019 14:19:36
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 23-06-2019 14:19:36
+
+--------------------------------------
+
+Started task "PositionChange" at 23-06-2019 14:19:36
+Current task: "ChangePositionBack"; Current state of Task: "Inactive" at 23-06-2019 14:19:36
+Current task: "ChangePositionBack"; Current state of Task: "Initialized" at 23-06-2019 14:19:36
+Current task: "ChangePositionBack"; Current state of Task: "FadeOut" at 23-06-2019 14:19:38
+Current task: "ChangePositionBack"; Current state of Task: "Change" at 23-06-2019 14:19:38
+Current task: "ChangePositionBack"; Current state of Task: "FadeIn" at 23-06-2019 14:19:40
+
+--------------------------------------
+
+Started task "Subtraction" at 23-06-2019 14:19:40
+Current task: "SubtractionTask"; Current state of Task: "Inactive" at 23-06-2019 14:19:40
+Current task: "SubtractionTask"; Current state of Task: "Initialized" at 23-06-2019 14:19:40
+NPC subtraction task explanation at 23-06-2019 14:19:40
+Current task: "SubtractionTask"; Current state of Task: "TaskAction" at 23-06-2019 14:19:51
+Current task: "SubtractionTask"; Current state of Task: "TaskTime" at 23-06-2019 14:20:29
+NPC next task at 23-06-2019 14:20:29
+Current task: "SubtractionTask"; Current state of Task: "ThanksAction" at 23-06-2019 14:20:32
+
+--------------------------------------
+
+End Study ; at 23-06-2019 14:20:32

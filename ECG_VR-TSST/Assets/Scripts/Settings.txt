@@ -1,0 +1,1 @@
+{"oneAuditor":true,"firstRound":["Presentation","Subtraction","ComputeChain"],"secondRound":[],"language":0}

@@ -1,0 +1,58 @@
+Begin Study at: 11-12-2019 13:02:34.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Deutsch
+First round: [SpeechDreamJob, Stroop]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 11-12-2019 13:02:34
+
+--------------------------------------
+
+Started task "Start" at 11-12-2019 13:02:36
+
+--------------------------------------
+
+Started task "WaitingRoom" at 11-12-2019 13:02:36
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 11-12-2019 13:02:36
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 11-12-2019 13:02:36
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 11-12-2019 13:02:36
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 11-12-2019 13:02:36
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 11-12-2019 13:02:36
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 11-12-2019 13:02:36
+
+--------------------------------------
+
+Started task "PositionChange" at 11-12-2019 13:02:36
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 11-12-2019 13:02:36
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 11-12-2019 13:02:36
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 11-12-2019 13:02:38
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 11-12-2019 13:02:38
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 11-12-2019 13:02:40
+
+--------------------------------------
+
+Started task "SpeechDreamJob" at 11-12-2019 13:02:40
+Current task: "SpeechDreamJob"; Current state of Task: "Inactive" at 11-12-2019 13:02:40
+Current task: "SpeechDreamJob"; Current state of Task: "Welcome" at 11-12-2019 13:02:40
+NPC  says "Welcome" at 11-12-2019 13:02:40
+Current task: "SpeechDreamJob"; Current state of Task: "Initialized" at 11-12-2019 13:02:49
+NPC says "Speech explanation Dream Job" at 11-12-2019 13:02:49
+Current task: "SpeechDreamJob"; Current state of Task: "TaskAction" at 11-12-2019 13:03:06
+Current task: "SpeechDreamJob"; Current state of Task: "PresentationTime" at 11-12-2019 13:03:10
+NPC says "Thank you! Next Task." at 11-12-2019 13:03:10
+Current task: "SpeechDreamJob"; Current state of Task: "ThanksAction" at 11-12-2019 13:03:15
+
+--------------------------------------
+
+Started task "Stroop" at 11-12-2019 13:03:15
+Current task: "StroopTestTask"; Current state of Task: "Inactive" at 11-12-2019 13:03:15
+Current task: "StroopTestTask"; Current state of Task: "Welcome" at 11-12-2019 13:03:15
+NPC says "Stroop test explanation" at 11-12-2019 13:03:15
+Current task: "StroopTestTask"; Current state of Task: "TaskAction" at 11-12-2019 13:03:30

@@ -1,0 +1,31 @@
+55-90      : Walking
+165-190    : Running
+260-320    : idle
+340-440    : talk
+450-520    : talk/laughing
+530-605    : talk/pointing
+625-650    : sit down
+655-705    : sit down idle
+720-815    : sit and talk
+820-848    : get up
+855-888    : recoil (being hit)
+895-935     : fall over
+940-970    : lie down
+990-1044   : get up
+1048-1069  : into crouch
+1076-1110     : crouch walk
+1155-1196    : crouch idle
+1250-1284   : crouch fall over
+1290-1335    : crouch get up
+1400-1428   : crouch recoil
+1350-1385   : crouch walk backwards
+1543-1578  : crouch step left
+1716-1751  : crouch step right
+1889-1916 : out of crouch
+1974-2019   : strafe  right
+2112-2157     : strafe left
+2254-2289     : step backwards
+2384-2415     : throw punch
+2430-2540     : operate/use keypad
+2560-2597     : jump  
+2610-2630     : fast run stop        

@@ -1,0 +1,48 @@
+Begin Study at: 07-08-2019 16:30:25.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Deutsch
+First round: [NBack]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 07-08-2019 16:30:25
+
+--------------------------------------
+
+Started task "Start" at 07-08-2019 16:30:28
+
+--------------------------------------
+
+Started task "WaitingRoom" at 07-08-2019 16:30:28
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 07-08-2019 16:30:28
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 07-08-2019 16:30:28
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 07-08-2019 16:30:28
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 07-08-2019 16:30:28
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 07-08-2019 16:30:28
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 07-08-2019 16:30:28
+
+--------------------------------------
+
+Started task "PositionChange" at 07-08-2019 16:30:29
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 07-08-2019 16:30:29
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 07-08-2019 16:30:29
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 07-08-2019 16:30:31
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 07-08-2019 16:30:31
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 07-08-2019 16:30:33
+
+--------------------------------------
+
+Started task "NBack" at 07-08-2019 16:30:33
+Current task: "N-Back Task"; Current state of Task: "Inactive" at 07-08-2019 16:30:33
+Current task: "N-Back Task"; Current state of Task: "Welcome" at 07-08-2019 16:30:33
+NPC  says "Welcome" at 07-08-2019 16:30:33
+NPC says "NBack test explanation" at 07-08-2019 16:30:43
+Current task: "N-Back Task"; Current state of Task: "TaskAction" at 07-08-2019 16:30:43
+Current task: "N-Back Task"; Current state of Task: "RunSeries" at 07-08-2019 16:30:58
+Current task: "N-Back Task"; Current state of Task: "RunSeries" at 07-08-2019 16:30:58

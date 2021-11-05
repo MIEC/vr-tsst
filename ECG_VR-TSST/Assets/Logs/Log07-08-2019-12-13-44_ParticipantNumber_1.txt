@@ -1,0 +1,177 @@
+Begin Study at: 07-08-2019 12:13:44.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Deutsch
+First round: [Presentation, Subtraction, Computation, NumberSeries, Stroop]
+Second round: [ResolveTerms, NBack]
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 07-08-2019 12:13:44
+
+--------------------------------------
+
+Started task "Start" at 07-08-2019 12:13:47
+
+--------------------------------------
+
+Started task "WaitingRoom" at 07-08-2019 12:13:47
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 07-08-2019 12:13:47
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 07-08-2019 12:13:47
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 07-08-2019 12:13:47
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 07-08-2019 12:13:47
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 07-08-2019 12:13:48
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 07-08-2019 12:13:48
+
+--------------------------------------
+
+Started task "PositionChange" at 07-08-2019 12:13:48
+Current task: "PositionChangeTask"; Current state of Task: " Inactive at 07-08-2019 12:13:48
+Current task: "PositionChangeTask"; Current state of Task: " Initialized at 07-08-2019 12:13:48
+Current task: "PositionChangeTask"; Current state of Task: " FadeOut at 07-08-2019 12:13:50
+Current task: "PositionChangeTask"; Current state of Task: " Change at 07-08-2019 12:13:50
+Current task: "PositionChangeTask"; Current state of Task: " FadeIn at 07-08-2019 12:13:52
+
+--------------------------------------
+
+Started task "Presentation" at 07-08-2019 12:13:52
+Current task: "PresentationTask"; Current state of Task: "Inactive" at 07-08-2019 12:13:52
+Current task: "PresentationTask"; Current state of Task: "Welcome" at 07-08-2019 12:13:52
+NPC  says "Welcome" at 07-08-2019 12:13:52
+Current task: "PresentationTask"; Current state of Task: "Initialized" at 07-08-2019 12:14:02
+NPC says "Speech explanation" at 07-08-2019 12:14:02
+Current task: "PresentationTask"; Current state of Task: "TaskAction" at 07-08-2019 12:14:12
+Current task: "PresentationTask"; Current state of Task: "PresentationTime" at 07-08-2019 12:19:12
+NPC says "Thank you! Next Task." at 07-08-2019 12:19:12
+Current task: "PresentationTask"; Current state of Task: "ThanksAction" at 07-08-2019 12:19:17
+
+--------------------------------------
+
+Started task "Subtraction" at 07-08-2019 12:19:17
+Current task: "SubtractionTask"; Current state of Task: "Inactive" at 07-08-2019 12:19:17
+Current task: "SubtractionTask"; Current state of Task: "Welcome" at 07-08-2019 12:19:17
+NPC says "Subtraction series explanation" at 07-08-2019 12:19:17
+Current task: "SubtractionTask"; Current state of Task: "TaskAction" at 07-08-2019 12:19:27
+Current task: "SubtractionTask"; Current state of Task: "TaskTime" at 07-08-2019 12:24:30
+NPC says "Thank you! Next Task." at 07-08-2019 12:24:30
+Current task: "SubtractionTask"; Current state of Task: "ThanksAction" at 07-08-2019 12:24:34
+
+--------------------------------------
+
+Started task "Computation" at 07-08-2019 12:24:34
+Current task: "ComputeChainTask"; Current state of Task: "Inactive" at 07-08-2019 12:24:34
+Current task: "ComputeChainTask"; Current state of Task: "Welcome" at 07-08-2019 12:24:34
+NPC says "Compute chain explanation" at 07-08-2019 12:24:34
+Current task: "ComputeChainTask"; Current state of Task: "TaskAction" at 07-08-2019 12:24:40
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:24:40
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:24:43
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:24:47
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:24:50
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:24:53
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:24:56
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:24:59
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:25:02
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:25:51
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:25:54
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:25:57
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:26:00
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:26:03
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:26:06
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:26:09
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:26:12
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:26:15
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:26:18
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:26:21
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:26:24
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:26:27
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:26:30
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:26:33
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:26:36
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:26:39
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 07-08-2019 12:26:42
+Current task: "ComputeChainTask"; Current state of Task: "End" at 07-08-2019 12:26:44
+NPC says "Thank you! Next Task." at 07-08-2019 12:26:44
+Current task: "ComputeChainTask"; Current state of Task: "ThanksAction" at 07-08-2019 12:26:48
+
+--------------------------------------
+
+Started task "NumberSeries" at 07-08-2019 12:26:48
+Current task: "NumberSeriesTask"; Current state of Task: "Inactive" at 07-08-2019 12:26:49
+Current task: "NumberSeriesTask"; Current state of Task: "Welcome" at 07-08-2019 12:26:49
+NPC says "Number series explanation" at 07-08-2019 12:26:49
+Current task: "NumberSeriesTask"; Current state of Task: "TaskAction" at 07-08-2019 12:26:58
+Current task: "NumberSeriesTask"; Current state of Task: "RunSeries" at 07-08-2019 12:26:58
+NPC says "Thank you! Next Task." at 07-08-2019 12:28:22
+
+--------------------------------------
+
+Started task "Stroop" at 07-08-2019 12:28:27
+Current task: "StroopTestTask"; Current state of Task: "Inactive" at 07-08-2019 12:28:27
+Current task: "StroopTestTask"; Current state of Task: "Welcome" at 07-08-2019 12:28:27
+NPC says "Stroop test explanation" at 07-08-2019 12:28:27
+Current task: "StroopTestTask"; Current state of Task: "TaskAction" at 07-08-2019 12:28:41
+Current task: "StroopTestTask"; Current state of Task: "TaskTime" at 07-08-2019 12:29:05
+NPC says "Thank you! Next round follows soon." at 07-08-2019 12:29:05
+Current task: "StroopTestTask"; Current state of Task: "ThanksAction" at 07-08-2019 12:29:11
+Begin second Round at: 07-08-2019 12:29:11.
+Settings used: {"oneAuditor":false,"secondRoundAnnouncement":true,"firstRound":["Presentation","Subtraction","Computation","NumberSeries","Stroop"],"secondRound":["ResolveTerms","NBack"],"language":0}
+
+--------------------------------------
+
+Started task "ChangePositionBack" at 07-08-2019 12:29:11
+Current task: "ChangePositionBack"; Current state of Task: "Inactive" at 07-08-2019 12:29:11
+Current task: "ChangePositionBack"; Current state of Task: "Initialized" at 07-08-2019 12:29:11
+Current task: "ChangePositionBack"; Current state of Task: "FadeOut" at 07-08-2019 12:29:13
+Current task: "ChangePositionBack"; Current state of Task: "Change" at 07-08-2019 12:29:13
+Current task: "ChangePositionBack"; Current state of Task: "FadeIn" at 07-08-2019 12:29:15
+
+--------------------------------------
+
+Started task "Uninitialized" at 07-08-2019 12:29:15
+
+--------------------------------------
+
+Started task "Start" at 07-08-2019 12:29:21
+
+--------------------------------------
+
+Started task "WaitingRoom" at 07-08-2019 12:29:21
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 07-08-2019 12:29:21
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 07-08-2019 12:29:21
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 07-08-2019 12:29:23
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 07-08-2019 12:29:24
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 07-08-2019 12:29:25
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 07-08-2019 12:29:25
+
+--------------------------------------
+
+Started task "PositionChange" at 07-08-2019 12:29:25
+Current task: "PositionChangeTask"; Current state of Task: " Inactive at 07-08-2019 12:29:25
+Current task: "PositionChangeTask"; Current state of Task: " Initialized at 07-08-2019 12:29:25
+Current task: "PositionChangeTask"; Current state of Task: " FadeOut at 07-08-2019 12:29:27
+Current task: "PositionChangeTask"; Current state of Task: " Change at 07-08-2019 12:29:27
+Current task: "PositionChangeTask"; Current state of Task: " FadeIn at 07-08-2019 12:29:29
+
+--------------------------------------
+
+Started task "ResolveTerms" at 07-08-2019 12:29:29
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 12:29:29
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 12:29:29
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 12:29:37
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 12:29:38
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 12:29:38
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 12:29:39
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 12:29:39
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 12:29:39
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 12:29:39
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 12:29:39
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 12:29:39
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 12:29:40
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 12:29:40
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 12:29:40
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 12:29:40
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 07-08-2019 12:29:40

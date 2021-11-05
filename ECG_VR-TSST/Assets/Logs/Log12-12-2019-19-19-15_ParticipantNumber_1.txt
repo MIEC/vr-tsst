@@ -1,0 +1,96 @@
+Begin Study at: 12-12-2019 19:19:15.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Deutsch
+First round: [Subtraction, Computation, Stroop, NBack]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 12-12-2019 19:19:15
+
+--------------------------------------
+
+Started task "Start" at 12-12-2019 19:19:46
+
+--------------------------------------
+
+Started task "WaitingRoom" at 12-12-2019 19:19:46
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 12-12-2019 19:19:46
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 12-12-2019 19:19:46
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 12-12-2019 19:19:47
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 12-12-2019 19:19:47
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 12-12-2019 19:19:48
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 12-12-2019 19:19:48
+
+--------------------------------------
+
+Started task "PositionChange" at 12-12-2019 19:19:48
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 12-12-2019 19:19:48
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 12-12-2019 19:19:48
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 12-12-2019 19:19:50
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 12-12-2019 19:19:50
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 12-12-2019 19:19:52
+
+--------------------------------------
+
+Started task "Subtraction" at 12-12-2019 19:19:52
+Current task: "SubtractionTask"; Current state of Task: "Inactive" at 12-12-2019 19:19:52
+Current task: "SubtractionTask"; Current state of Task: "Welcome" at 12-12-2019 19:19:52
+NPC  says "Welcome" at 12-12-2019 19:19:52
+Current task: "SubtractionTask"; Current state of Task: "Initialized" at 12-12-2019 19:20:01
+NPC says "Subtraction series explanation" at 12-12-2019 19:20:01
+Current task: "SubtractionTask"; Current state of Task: "TaskAction" at 12-12-2019 19:22:11
+Current task: "SubtractionTask"; Current state of Task: "TaskTime" at 12-12-2019 19:23:34
+NPC says "Thank you! Next Task." at 12-12-2019 19:23:34
+Current task: "SubtractionTask"; Current state of Task: "ThanksAction" at 12-12-2019 19:23:38
+
+--------------------------------------
+
+Started task "Computation" at 12-12-2019 19:23:38
+Current task: "ComputeChainTask"; Current state of Task: "Inactive" at 12-12-2019 19:23:38
+Current task: "ComputeChainTask"; Current state of Task: "Welcome" at 12-12-2019 19:23:38
+NPC says "Compute chain explanation" at 12-12-2019 19:23:38
+Current task: "ComputeChainTask"; Current state of Task: "TaskAction" at 12-12-2019 19:23:48
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 12-12-2019 19:23:50
+
+--------------------------------------
+
+Restarted task "Computation" at 12-12-2019 19:23:51
+Current task: "ComputeChainTask"; Current state of Task: "Welcome" at 12-12-2019 19:23:51
+NPC says "Compute chain explanation" at 12-12-2019 19:23:51
+
+--------------------------------------
+
+Restarted task "Computation" at 12-12-2019 19:23:51
+Current task: "ComputeChainTask"; Current state of Task: "Welcome" at 12-12-2019 19:23:51
+NPC says "Compute chain explanation" at 12-12-2019 19:23:51
+Current task: "ComputeChainTask"; Current state of Task: "TaskAction" at 12-12-2019 19:24:01
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 12-12-2019 19:24:03
+Current task: "ComputeChainTask"; Current state of Task: "End" at 12-12-2019 19:24:09
+NPC says "Thank you! Next Task." at 12-12-2019 19:24:09
+Current task: "ComputeChainTask"; Current state of Task: "ThanksAction" at 12-12-2019 19:24:09
+
+--------------------------------------
+
+Started task "Stroop" at 12-12-2019 19:24:09
+Current task: "StroopTestTask"; Current state of Task: "Inactive" at 12-12-2019 19:24:09
+Current task: "StroopTestTask"; Current state of Task: "Welcome" at 12-12-2019 19:24:09
+NPC says "Stroop test explanation" at 12-12-2019 19:24:09
+Current task: "StroopTestTask"; Current state of Task: "TaskAction" at 12-12-2019 19:24:38
+Current task: "StroopTestTask"; Current state of Task: "TaskTime" at 12-12-2019 19:26:39
+NPC says "Thank you! Next Task." at 12-12-2019 19:26:39
+Current task: "StroopTestTask"; Current state of Task: "ThanksAction" at 12-12-2019 19:26:44
+
+--------------------------------------
+
+Started task "NBack" at 12-12-2019 19:26:44
+Current task: "N-Back Task"; Current state of Task: "Inactive" at 12-12-2019 19:26:44
+Current task: "N-Back Task"; Current state of Task: "Welcome" at 12-12-2019 19:26:44
+NPC says "NBack test explanation" at 12-12-2019 19:26:44
+Current task: "N-Back Task"; Current state of Task: "RunSeries" at 12-12-2019 19:26:59
+Current task: "N-Back Task"; Current state of Task: "RunSeries" at 12-12-2019 19:27:08

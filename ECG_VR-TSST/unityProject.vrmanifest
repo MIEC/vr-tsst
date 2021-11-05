@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrtsstv2.1.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\BT_Jan_Bewersdorff\\ECG VR-TSST 2.0\\Unity Project\\ECG_VR-TSST_2.0\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "ECG VR-TSST v2.0 [Testing]"
+        }
+      }
+    }
+  ]
+}

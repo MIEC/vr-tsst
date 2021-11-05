@@ -1,0 +1,69 @@
+Begin Study at: 11-12-2019 12:36:55.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Deutsch
+First round: [SpeechProjectManager, SpeechDreamJob, SpeechChiefPhisician, Stroop]
+Second round: []
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 11-12-2019 12:36:55
+
+--------------------------------------
+
+Started task "Start" at 11-12-2019 12:36:57
+
+--------------------------------------
+
+Started task "WaitingRoom" at 11-12-2019 12:36:57
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 11-12-2019 12:36:57
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 11-12-2019 12:36:57
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 11-12-2019 12:36:58
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 11-12-2019 12:36:58
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 11-12-2019 12:36:58
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 11-12-2019 12:36:58
+
+--------------------------------------
+
+Started task "PositionChange" at 11-12-2019 12:36:58
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 11-12-2019 12:36:58
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 11-12-2019 12:36:58
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 11-12-2019 12:37:00
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 11-12-2019 12:37:01
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 11-12-2019 12:37:03
+
+--------------------------------------
+
+Started task "SpeechProjectManager" at 11-12-2019 12:37:03
+Current task: "SpeechProjectManager"; Current state of Task: "Inactive" at 11-12-2019 12:37:03
+Current task: "SpeechProjectManager"; Current state of Task: "Welcome" at 11-12-2019 12:37:03
+NPC  says "Welcome" at 11-12-2019 12:37:03
+Current task: "SpeechProjectManager"; Current state of Task: "Initialized" at 11-12-2019 12:37:11
+NPC says "Speech explanation for Project Manager" at 11-12-2019 12:37:11
+Current task: "SpeechProjectManager"; Current state of Task: "TaskAction" at 11-12-2019 12:37:31
+Current task: "SpeechProjectManager"; Current state of Task: "PresentationTime" at 11-12-2019 12:37:33
+NPC says "Thank you! Next Task." at 11-12-2019 12:37:33
+Current task: "SpeechProjectManager"; Current state of Task: "ThanksAction" at 11-12-2019 12:37:38
+
+--------------------------------------
+
+Started task "SpeechDreamJob" at 11-12-2019 12:37:38
+Current task: "SpeechDreamJob"; Current state of Task: "Inactive" at 11-12-2019 12:37:38
+Current task: "SpeechDreamJob"; Current state of Task: "Welcome" at 11-12-2019 12:37:38
+NPC says "Speech explanation Dream Job" at 11-12-2019 12:37:38
+Current task: "SpeechDreamJob"; Current state of Task: "TaskAction" at 11-12-2019 12:37:55
+Current task: "SpeechDreamJob"; Current state of Task: "PresentationTime" at 11-12-2019 12:37:57
+NPC says "Thank you! Next Task." at 11-12-2019 12:37:57
+Current task: "SpeechDreamJob"; Current state of Task: "ThanksAction" at 11-12-2019 12:38:01
+
+--------------------------------------
+
+Restarted task "SpeechChiefPhisician" at 11-12-2019 12:38:12
+
+--------------------------------------
+
+Restarted task "SpeechChiefPhisician" at 11-12-2019 12:38:13
