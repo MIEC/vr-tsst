@@ -1,0 +1,35 @@
+Begin Study at: 21-02-2023 12:21:44.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Deutsch
+First round: [SpeechChiefPhysician, Computation, Stroop]
+Second round: [Subtraction, NumberSeries, SpeechChiefPhysician]
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 21-02-2023 12:21:44
+
+--------------------------------------
+
+Started task "Start" at 21-02-2023 12:21:56
+
+--------------------------------------
+
+Started task "WaitingRoom" at 21-02-2023 12:21:56
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 21-02-2023 12:21:56
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 21-02-2023 12:21:56
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 21-02-2023 12:23:17
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 21-02-2023 12:23:27
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 21-02-2023 12:23:37
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 21-02-2023 12:23:37
+
+--------------------------------------
+
+Started task "PositionChange" at 21-02-2023 12:23:37
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 21-02-2023 12:23:37
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 21-02-2023 12:23:37
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 21-02-2023 12:23:39

@@ -1,0 +1,55 @@
+Begin Study at: 21-02-2023 14:59:44.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Deutsch
+First round: [Subtraction, Computation, NumberSeries, Stroop, ResolveTerms]
+Second round: [NBack, ResolveTerms, Stroop, NumberSeries, Computation]
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 21-02-2023 14:59:44
+
+--------------------------------------
+
+Started task "Start" at 21-02-2023 14:59:58
+
+--------------------------------------
+
+Started task "WaitingRoom" at 21-02-2023 14:59:58
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 21-02-2023 14:59:58
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 21-02-2023 14:59:58
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 21-02-2023 15:00:00
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 21-02-2023 15:00:01
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 21-02-2023 15:00:01
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 21-02-2023 15:00:01
+
+--------------------------------------
+
+Started task "PositionChange" at 21-02-2023 15:00:01
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 21-02-2023 15:00:01
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 21-02-2023 15:00:01
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 21-02-2023 15:00:03
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 21-02-2023 15:00:03
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 21-02-2023 15:00:05
+
+--------------------------------------
+
+Started task "Subtraction" at 21-02-2023 15:00:05
+Current task: "SubtractionTask"; Current state of Task: "Inactive" at 21-02-2023 15:00:05
+Current task: "SubtractionTask"; Current state of Task: "Welcome" at 21-02-2023 15:00:05
+NPC  says "Welcome to second round" at 21-02-2023 15:00:05
+Current task: "SubtractionTask"; Current state of Task: "Initialized" at 21-02-2023 15:00:09
+NPC says "Subtraction series explanation" at 21-02-2023 15:00:09
+Current task: "SubtractionTask"; Current state of Task: "TaskAction" at 21-02-2023 15:00:20
+Admin pressed button: "Wrong" at 21-02-2023 15:00:43
+Admin pressed button: "From the beginning" at 21-02-2023 15:00:46
+Admin pressed button: "Correct" at 21-02-2023 15:00:51
+Admin pressed button: "Correct" at 21-02-2023 15:00:57
+Admin pressed button: "Cannot understand" at 21-02-2023 15:01:04
+Admin pressed button: "Cannot understand" at 21-02-2023 15:01:09
+Current task: "SubtractionTask"; Current state of Task: "TaskTime" at 21-02-2023 15:01:16
+NPC says "Thank you! Next Task." at 21-02-2023 15:01:16

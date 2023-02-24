@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
-using Valve.VR;
+
 
 public class AdditiveSceneLoader : MonoBehaviour {
 	
@@ -9,7 +9,7 @@ public class AdditiveSceneLoader : MonoBehaviour {
 	private string _sceneName;
 	
 	private void Start() {
-		SteamVR_Fade.Start(Color.black,0f);
+		ScreenFader.Fade(Color.black,0f);
 		LoadScene();
 	}
 	

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Audio;
-using Valve.VR;
+
 
 public class Fader : MonoBehaviour
 {
@@ -43,8 +43,8 @@ public class Fader : MonoBehaviour
 
     public void Fade(Color color, float time, bool fadeIn = true, VisualFadeType type = VisualFadeType.Start)
     {
-        if (type == VisualFadeType.Start) SteamVR_Fade.Start(color, time);
-        else if (type == VisualFadeType.View) SteamVR_Fade.View(color, time);
+        if (type == VisualFadeType.Start) ScreenFader.Fade(color, time);
+        //else if (type == VisualFadeType.View) SteamVR_Fade.View(color, time); //removed because never used
         StartCoroutine(FadeAudio(time, fadeIn));
     }
 

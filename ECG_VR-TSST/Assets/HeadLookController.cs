@@ -141,7 +141,7 @@ public class HeadLookController : MonoBehaviour
                 break;
             }
         }
-        int r = rndm.Next(0,5);
+        int r = rndm.Next(0, gTarget.childCount);
 
         // Handle each segment
         //Check if th segmnts tag equals eye to start a seperat coroutine for the eyes
