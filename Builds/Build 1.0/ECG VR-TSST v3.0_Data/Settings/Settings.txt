@@ -1,0 +1,1 @@
+{"oneAuditor":false,"secondRoundAnnouncement":false,"firstIsSecond":false,"firstRound":["Computation","Subtraction"],"secondRound":["NBack","Stroop"],"language":0}

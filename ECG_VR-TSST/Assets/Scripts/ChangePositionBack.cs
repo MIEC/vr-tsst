@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Collections;
 using System.Collections.Generic;
-using Valve.VR;
+
 using UnityEngine;
 
 public class ChangePositionBack : AbstractTask {
@@ -81,7 +81,7 @@ public class ChangePositionBack : AbstractTask {
                 _state = State.Change;
                 _officeRig.SetActive(false);
                 _waitingRoomRig.SetActive(true);
-                SteamVR_Fade.Start(Color.black, 0f);
+                ScreenFader.Fade(Color.black, 0f);
                 Door.Instance.Close();
                 Timer.Instance.StartTimer(0.2f, Timer.Mode.Automatic);
                 return true;

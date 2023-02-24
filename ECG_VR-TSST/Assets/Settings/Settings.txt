@@ -1,1 +1,1 @@
-{"oneAuditor":false,"secondRoundAnnouncement":true,"firstIsSecond":true,"firstRound":["SpeechChiefPhysician"],"secondRound":[],"language":1}
+{"oneAuditor":false,"secondRoundAnnouncement":true,"firstIsSecond":true,"firstRound":["Subtraction","Computation","NumberSeries","Stroop","ResolveTerms"],"secondRound":["NBack","ResolveTerms","Stroop","NumberSeries","Computation"],"language":0}

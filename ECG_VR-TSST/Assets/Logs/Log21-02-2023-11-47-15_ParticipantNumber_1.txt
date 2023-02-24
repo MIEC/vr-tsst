@@ -1,0 +1,14 @@
+Begin Study at: 21-02-2023 11:47:15.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Deutsch
+First round: [SpeechChiefPhysician, Computation, Stroop]
+Second round: [Subtraction, NumberSeries, SpeechChiefPhysician]
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 21-02-2023 11:47:15

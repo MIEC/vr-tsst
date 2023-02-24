@@ -55,29 +55,29 @@ public class GameManager : MonoBehaviour
     [SerializeField]
     private float _fadingTime = 2f;
 
-    private string[] preRound = { "Uninitialized", "Start", "WaitingRoom", "PositionChange" };
+    [SerializeField] private string[] preRound = { "Uninitialized", "Start", "WaitingRoom", "PositionChange" };
 
-    private string[] preRoundTwo = {"ChangePositionBack" ,"Uninitialized", "Start", "WaitingRoom", "PositionChange" };
+    [SerializeField] private string[] preRoundTwo = {"ChangePositionBack" ,"Uninitialized", "Start", "WaitingRoom", "PositionChange" };
 
-    private string[] firstRound = null;
+    [SerializeField] private string[] firstRound = null;
 
-    private string endRound = "End";
+    [SerializeField] private string endRound = "End";
 
-    private string switchRound = "Switch";
+    [SerializeField] private string switchRound = "Switch";
 
-    private string participantNumber;
+    [SerializeField] private string participantNumber;
 
-    private bool secondRoundAvailable = false;
+    [SerializeField] private bool secondRoundAvailable = false;
 
-    private bool secondRoundActive = false;
+    [SerializeField] private bool secondRoundActive = false;
 
-    private bool uninitialized, start, waitingRoom, positionChange, changePositionBack, end, presentation, speechDreamJob, speechProjectManager, speechChiefPhysician, numberSeries, computeChain, subtraction, stroop, resolveTerms, nBackTest;
+    [SerializeField] private bool uninitialized, start, waitingRoom, positionChange, changePositionBack, end, presentation, speechDreamJob, speechProjectManager, speechChiefPhysician, numberSeries, computeChain, subtraction, stroop, resolveTerms, nBackTest;
 
-    private Round round;
+    [SerializeField] private Round round;
 
-    private Round secondRound;
+    [SerializeField] private Round secondRound;
 
-    private string path;
+    [SerializeField] private string path;
 
     /// <summary>
     /// Getter for path value

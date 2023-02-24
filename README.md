@@ -43,3 +43,15 @@ And the BibTeX entry :
  YEAR = {2023},
  URL = {https://www.ecg.uni-due.de/}
 }`
+
+# New in Version 3.0
+We revisioned and updated the code so that the programm now runs with OpenXR (see below).
+
+## Switch between Oculus or SteamVR
+### Option 1:
+Go to: **Edit** -> **Project Settings** -> **XR Plug-in Management (OpenVR)** -> **Play Mode OpenXR Runtime**
+Choose ***OculusOpen XR*** or ***SteamVR***
+
+### Option2 
+SteamVR: **SteamVR(Hamburger Menu)** -> **Settings** -> **Developer** and press the Button ***"Set SteamVR As OpenXR Runtime"***
+Oculus: **Oculus (Desktop)** -> **Settings** -> **General** -> **OpenXR-Runtime** and press the Button ***"Set Oculus as active"***

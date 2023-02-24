@@ -1,0 +1,200 @@
+Begin Study at: 21-02-2023 13:41:57.
+
+Settings used:
+One Auditor?: False
+Second round announcement?: True
+Language: Deutsch
+First round: [Subtraction, Computation, NumberSeries, Stroop, ResolveTerms]
+Second round: [NBack, ResolveTerms, Stroop, NumberSeries, Computation]
+
+Participant Number: 1
+
+--------------------------------------
+
+Started task "Uninitialized" at 21-02-2023 13:41:57
+
+--------------------------------------
+
+Started task "Start" at 21-02-2023 13:43:33
+
+--------------------------------------
+
+Started task "WaitingRoom" at 21-02-2023 13:43:33
+Current task: "WaitingRoomTask"; Current state of Task: "Inactive" at 21-02-2023 13:43:33
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 21-02-2023 13:43:33
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 21-02-2023 13:43:42
+
+--------------------------------------
+
+Restarted task "WaitingRoom" at 21-02-2023 13:43:45
+Current task: "WaitingRoomTask"; Current state of Task: "Initialized" at 21-02-2023 13:43:45
+Current task: "WaitingRoomTask"; Current state of Task: "InitalMessage" at 21-02-2023 13:43:50
+Current task: "WaitingRoomTask"; Current state of Task: "SurveillanceMessage" at 21-02-2023 13:43:51
+Current task: "WaitingRoomTask"; Current state of Task: "ReadyMessage" at 21-02-2023 13:43:53
+Current task: "WaitingRoomTask"; Current state of Task: "Finished" at 21-02-2023 13:43:53
+
+--------------------------------------
+
+Started task "PositionChange" at 21-02-2023 13:43:53
+Current task: "PositionChangeTask"; Current state of Task: "Inactive" at 21-02-2023 13:43:53
+Current task: "PositionChangeTask"; Current state of Task: "Initialized" at 21-02-2023 13:43:53
+Current task: "PositionChangeTask"; Current state of Task: "FadeOut" at 21-02-2023 13:43:55
+Current task: "PositionChangeTask"; Current state of Task: "Change" at 21-02-2023 13:43:55
+Current task: "PositionChangeTask"; Current state of Task: "FadeIn" at 21-02-2023 13:43:57
+
+--------------------------------------
+
+Started task "Subtraction" at 21-02-2023 13:43:57
+Current task: "SubtractionTask"; Current state of Task: "Inactive" at 21-02-2023 13:43:57
+Current task: "SubtractionTask"; Current state of Task: "Welcome" at 21-02-2023 13:43:57
+NPC  says "Welcome to second round" at 21-02-2023 13:43:57
+Current task: "SubtractionTask"; Current state of Task: "Initialized" at 21-02-2023 13:44:01
+NPC says "Subtraction series explanation" at 21-02-2023 13:44:01
+Current task: "SubtractionTask"; Current state of Task: "TaskAction" at 21-02-2023 13:44:11
+Admin pressed button: "Cannot understand" at 21-02-2023 13:44:14
+Admin pressed button: "Wrong" at 21-02-2023 13:44:17
+Admin pressed button: "Wrong" at 21-02-2023 13:44:18
+Admin pressed button: "Wrong" at 21-02-2023 13:44:19
+Admin pressed button: "Wrong" at 21-02-2023 13:44:20
+Admin pressed button: "From the beginning" at 21-02-2023 13:44:23
+Admin pressed button: "Correct" at 21-02-2023 13:44:25
+Admin pressed button: "Loud and clearly" at 21-02-2023 13:44:28
+Admin pressed button: "Wrong" at 21-02-2023 13:44:34
+
+--------------------------------------
+
+Restarted task "Subtraction" at 21-02-2023 13:44:39
+Current task: "SubtractionTask"; Current state of Task: "Welcome" at 21-02-2023 13:44:39
+NPC  says "Welcome to second round" at 21-02-2023 13:44:39
+Current task: "SubtractionTask"; Current state of Task: "Initialized" at 21-02-2023 13:44:43
+NPC says "Subtraction series explanation" at 21-02-2023 13:44:43
+Current task: "SubtractionTask"; Current state of Task: "TaskAction" at 21-02-2023 13:44:54
+Admin pressed button: "Correct" at 21-02-2023 13:44:58
+Admin pressed button: "From the beginning" at 21-02-2023 13:45:08
+Current task: "SubtractionTask"; Current state of Task: "TaskTime" at 21-02-2023 13:45:09
+NPC says "Thank you! Next Task." at 21-02-2023 13:45:09
+Current task: "SubtractionTask"; Current state of Task: "ThanksAction" at 21-02-2023 13:45:14
+
+--------------------------------------
+
+Started task "Computation" at 21-02-2023 13:45:14
+Current task: "ComputeChainTask"; Current state of Task: "Inactive" at 21-02-2023 13:45:14
+Current task: "ComputeChainTask"; Current state of Task: "Welcome" at 21-02-2023 13:45:14
+NPC  says "Welcome to second round" at 21-02-2023 13:45:14
+Current task: "ComputeChainTask"; Current state of Task: "Initialized" at 21-02-2023 13:45:18
+NPC says "Compute chain explanation" at 21-02-2023 13:45:18
+Current task: "ComputeChainTask"; Current state of Task: "TaskAction" at 21-02-2023 13:45:27
+An error occured in the Log-System at 21-02-2023 13:45:33
+
+--------------------------------------
+
+Restarted task "Computation" at 21-02-2023 13:45:37
+Current task: "ComputeChainTask"; Current state of Task: "Welcome" at 21-02-2023 13:45:37
+NPC  says "Welcome to second round" at 21-02-2023 13:45:37
+Current task: "ComputeChainTask"; Current state of Task: "Initialized" at 21-02-2023 13:45:41
+NPC says "Compute chain explanation" at 21-02-2023 13:45:41
+Current task: "ComputeChainTask"; Current state of Task: "TaskAction" at 21-02-2023 13:45:51
+Admin pressed button: "Wrong" at 21-02-2023 13:45:54
+Admin pressed button: "Wrong" at 21-02-2023 13:45:57
+Admin pressed button: "Wrong" at 21-02-2023 13:46:00
+Admin pressed button: "Wrong" at 21-02-2023 13:46:01
+Admin pressed button: "Correct" at 21-02-2023 13:46:01
+Admin pressed button: "Correct" at 21-02-2023 13:46:02
+Admin pressed button: "Wrong" at 21-02-2023 13:46:03
+Current task: "ComputeChainTask"; Current state of Task: "ComputeChains" at 21-02-2023 13:46:05
+Admin pressed button: "Correct" at 21-02-2023 13:46:16
+An error occured in the Log-System at 21-02-2023 13:46:24
+An error occured in the Log-System at 21-02-2023 13:46:28
+An error occured in the Log-System at 21-02-2023 13:46:30
+Admin pressed button: "Wrong" at 21-02-2023 13:46:45
+Admin pressed button: "Wrong" at 21-02-2023 13:46:50
+An error occured in the Log-System at 21-02-2023 13:46:52
+An error occured in the Log-System at 21-02-2023 13:46:52
+Admin pressed button: "Wrong" at 21-02-2023 13:47:11
+An error occured in the Log-System at 21-02-2023 13:47:16
+Admin pressed button: "Wrong" at 21-02-2023 13:47:41
+Admin pressed button: "Wrong" at 21-02-2023 13:48:03
+An error occured in the Log-System at 21-02-2023 13:48:10
+An error occured in the Log-System at 21-02-2023 13:48:19
+Admin pressed button: "Wrong" at 21-02-2023 13:48:25
+Current task: "ComputeChainTask"; Current state of Task: "End" at 21-02-2023 13:48:28
+NPC says "Thank you! Next Task." at 21-02-2023 13:48:28
+Current task: "ComputeChainTask"; Current state of Task: "ThanksAction" at 21-02-2023 13:48:33
+
+--------------------------------------
+
+Started task "NumberSeries" at 21-02-2023 13:48:33
+Current task: "NumberSeriesTask"; Current state of Task: "Inactive" at 21-02-2023 13:48:33
+Current task: "NumberSeriesTask"; Current state of Task: "Welcome" at 21-02-2023 13:48:33
+NPC  says "Welcome to second round" at 21-02-2023 13:48:33
+Current task: "NumberSeriesTask"; Current state of Task: "Initialized" at 21-02-2023 13:48:37
+NPC says "Number series explanation" at 21-02-2023 13:48:37
+Current task: "NumberSeriesTask"; Current state of Task: "TaskAction" at 21-02-2023 13:48:47
+Current task: "NumberSeriesTask"; Current state of Task: "RunSeries" at 21-02-2023 13:48:51
+Admin pressed button: "Wrong" at 21-02-2023 13:49:08
+Admin pressed button: "Wrong" at 21-02-2023 13:49:11
+An error occured in the Log-System at 21-02-2023 13:49:12
+Admin pressed button: "Wrong" at 21-02-2023 13:49:17
+Admin pressed button: "Wrong" at 21-02-2023 13:49:48
+An error occured in the Log-System at 21-02-2023 13:49:57
+An error occured in the Log-System at 21-02-2023 13:50:31
+Admin pressed button: "Wrong" at 21-02-2023 13:51:00
+An error occured in the Log-System at 21-02-2023 13:51:27
+Admin pressed button: "Correct" at 21-02-2023 13:51:33
+NPC says "Thank you! Next Task." at 21-02-2023 13:51:36
+
+--------------------------------------
+
+Started task "Stroop" at 21-02-2023 13:51:40
+Current task: "StroopTestTask"; Current state of Task: "Inactive" at 21-02-2023 13:51:40
+Current task: "StroopTestTask"; Current state of Task: "Welcome" at 21-02-2023 13:51:40
+NPC  says "Welcome to second round" at 21-02-2023 13:51:40
+Current task: "StroopTestTask"; Current state of Task: "Initialized" at 21-02-2023 13:51:44
+NPC says "Stroop test explanation" at 21-02-2023 13:51:44
+Current task: "StroopTestTask"; Current state of Task: "TaskAction" at 21-02-2023 13:51:58
+
+--------------------------------------
+
+Restarted task "Stroop" at 21-02-2023 13:52:08
+Current task: "StroopTestTask"; Current state of Task: "Welcome" at 21-02-2023 13:52:08
+NPC  says "Welcome to second round" at 21-02-2023 13:52:08
+Current task: "StroopTestTask"; Current state of Task: "Initialized" at 21-02-2023 13:52:12
+NPC says "Stroop test explanation" at 21-02-2023 13:52:12
+Current task: "StroopTestTask"; Current state of Task: "TaskAction" at 21-02-2023 13:52:26
+Admin pressed button: "From the beginning" at 21-02-2023 13:52:50
+Current task: "StroopTestTask"; Current state of Task: "TaskTime" at 21-02-2023 13:53:00
+NPC says "Thank you! Next Task." at 21-02-2023 13:53:00
+Current task: "StroopTestTask"; Current state of Task: "ThanksAction" at 21-02-2023 13:53:05
+
+--------------------------------------
+
+Started task "ResolveTerms" at 21-02-2023 13:53:05
+Current task: "ResolveTermsTask"; Current state of Task: "Inactive" at 21-02-2023 13:53:05
+Current task: "ResolveTermsTask"; Current state of Task: "Welcome" at 21-02-2023 13:53:05
+NPC  says "Welcome to second round" at 21-02-2023 13:53:05
+NPC says "Resolve terms explanation" at 21-02-2023 13:53:09
+Current task: "ResolveTermsTask"; Current state of Task: "Initialized" at 21-02-2023 13:53:09
+Current task: "ResolveTermsTask"; Current state of Task: "TaskAction" at 21-02-2023 13:53:15
+Current task: "ResolveTermsTask"; Current state of Task: "RunSeries" at 21-02-2023 13:53:20
+An error occured in the Log-System at 21-02-2023 13:53:32
+Admin pressed button: "Correct" at 21-02-2023 13:53:52
+Current task: "ResolveTermsTask"; Current state of Task: "EndSeries" at 21-02-2023 13:54:52
+NPC says "Thank you! Next round follows soon." at 21-02-2023 13:54:52
+Current task: "ResolveTermsTask"; Current state of Task: "ThanksAction" at 21-02-2023 13:54:58
+
+--------------------------------------
+
+Begin second Round at: 21-02-2023 13:54:58.
+
+--------------------------------------
+
+Started task "ChangePositionBack" at 21-02-2023 13:54:58
+Current task: "ChangePositionBack"; Current state of Task: "Inactive" at 21-02-2023 13:54:58
+Current task: "ChangePositionBack"; Current state of Task: "Initialized" at 21-02-2023 13:54:58
+Current task: "ChangePositionBack"; Current state of Task: "FadeOut" at 21-02-2023 13:55:00
+Current task: "ChangePositionBack"; Current state of Task: "Change" at 21-02-2023 13:55:00
+Current task: "ChangePositionBack"; Current state of Task: "FadeIn" at 21-02-2023 13:55:02
+
+--------------------------------------
+
+Started task "Uninitialized" at 21-02-2023 13:55:02

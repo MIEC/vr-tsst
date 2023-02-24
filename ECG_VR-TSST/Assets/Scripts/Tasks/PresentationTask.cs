@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 using UnityEngine;
-using Valve.VR;
+
 
 public class PresentationTask : AbstractTask
 {
