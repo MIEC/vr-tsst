@@ -1,4 +1,4 @@
-# ECG VR-TSST v2.3
+# ECG VR-TSST v3.0
 
 The Entertainment Computing Group VR-TSST (ECG VR-TSST) is a tool for experimental induction of acute mental stress in the laboratory. It is a VR adaptation of the original Trier Social Stress Test protocol developed by Kirschbaum, Pirke, and Hellhammer (1993). The ECG VR-TSST works with HTC Vive and Oculus Rift. 
 
