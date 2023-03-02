@@ -1,1 +1,0 @@
-{"initialText":"Please be patient for a moment! You can go straight to the auditor(s) into the office to start with the tasks any moment.","surveillanceText":"In the following conversation both picture and sound will be recorded!","readyText":"Please stand up.\r\nThe auditor(s) is/are now ready for you."}
